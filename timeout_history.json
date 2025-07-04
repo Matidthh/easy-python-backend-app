@@ -1,0 +1,136 @@
+{
+  "763531986035539992": [
+    {
+      "timestamp": "2025-06-26T01:14:45.830872",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:16:05.539975",
+      "duration_seconds": 300,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "1328936117403390035": [
+    {
+      "timestamp": "2025-06-26T01:15:06.316205",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:18:44.505250",
+      "duration_seconds": 300,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "1036401809608155178": [
+    {
+      "timestamp": "2025-06-26T01:16:30.841070",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:19:27.338953",
+      "duration_seconds": 300,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:26:26.875255",
+      "duration_seconds": 600,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "1258898048831066140": [
+    {
+      "timestamp": "2025-06-26T01:17:39.958073",
+      "duration_seconds": 60,
+      "mention_count": 2,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "751544013626146836": [
+    {
+      "timestamp": "2025-06-26T01:18:29.982428",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "646123271334395915": [
+    {
+      "timestamp": "2025-06-26T01:18:52.811773",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "989325928729567282": [
+    {
+      "timestamp": "2025-06-26T01:19:51.658098",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:23:50.871835",
+      "duration_seconds": 300,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:24:10.415013",
+      "duration_seconds": 600,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:25:53.217388",
+      "duration_seconds": 600,
+      "mention_count": 2,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:26:38.051504",
+      "duration_seconds": 600,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "774088434179899414": [
+    {
+      "timestamp": "2025-06-26T01:23:20.189380",
+      "duration_seconds": 0,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    },
+    {
+      "timestamp": "2025-06-26T01:24:13.049165",
+      "duration_seconds": 0,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "947944161829613648": [
+    {
+      "timestamp": "2025-06-26T01:24:46.868760",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ],
+  "1378853251553820743": [
+    {
+      "timestamp": "2025-06-26T01:25:33.984730",
+      "duration_seconds": 60,
+      "mention_count": 1,
+      "reason": "excessive_mentions"
+    }
+  ]
+}

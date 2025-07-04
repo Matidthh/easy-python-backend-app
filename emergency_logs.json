@@ -1,0 +1,418 @@
+[
+  {
+    "timestamp": "2025-06-25T22:34:05.058398",
+    "user_id": 774088434179899414,
+    "username": "mati_dtth",
+    "service_type": "Polic\u00eda",
+    "motivo": "-----------",
+    "codigo_postal": "PRUEBA"
+  },
+  {
+    "timestamp": "2025-06-25T22:35:24.298356",
+    "user_id": 774088434179899414,
+    "username": "mati_dtth",
+    "service_type": "M\u00e9dicos",
+    "motivo": "......",
+    "codigo_postal": "PRUEBA"
+  },
+  {
+    "timestamp": "2025-06-26T01:42:13.016398",
+    "user_id": 774088434179899414,
+    "username": "mati_dtth",
+    "service_type": "Polic\u00eda",
+    "motivo": "pruebaprueb",
+    "codigo_postal": "prueba"
+  },
+  {
+    "timestamp": "2025-06-26T02:32:30.820444",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto robar sp fury blanco",
+    "codigo_postal": "203"
+  },
+  {
+    "timestamp": "2025-06-26T02:33:08.181249",
+    "user_id": 1310267009510146069,
+    "username": "benj4_1racbll",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se verian dos sujetos robar un Camaro SS 2016 color blanco cerca de la tienda de caf\u00e9s, desconozco si est\u00e1n armados o no.",
+    "codigo_postal": "206"
+  },
+  {
+    "timestamp": "2025-06-26T02:35:34.484127",
+    "user_id": 1310267009510146069,
+    "username": "benj4_1racbll",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda un sujeto con la polera de la cato robar una Beretta M9 en armer\u00eda",
+    "codigo_postal": "401"
+  },
+  {
+    "timestamp": "2025-06-26T18:57:01.129548",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto rbar un sp fury de color rojo",
+    "codigo_postal": "203"
+  },
+  {
+    "timestamp": "2025-06-26T18:58:56.986958",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto robar una berreta el sujeto robo el sp fury rojo",
+    "codigo_postal": "401"
+  },
+  {
+    "timestamp": "2025-06-26T21:54:08.732464",
+    "user_id": 1036401809608155178,
+    "username": "caxzu",
+    "service_type": "Polic\u00eda",
+    "motivo": "Un scw me robo mi VRD Max Color Rosa, Ayuda!",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-26T22:44:39.201792",
+    "user_id": 1036401809608155178,
+    "username": "caxzu",
+    "service_type": "Polic\u00eda",
+    "motivo": "Una VRD Rosa acaba de subir a un carabinero y se dirijio hacia comisaria de carabineros, el carabinero se subio por si solo, pero si pasa algo que sepan que fue esa.",
+    "codigo_postal": "500"
+  },
+  {
+    "timestamp": "2025-06-26T22:51:35.132100",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda sujeto robar sp fury rojo en estacionamiento de mecanico",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-26T23:59:36.667546",
+    "user_id": 1327829390700052591,
+    "username": "bruno_salazar_13",
+    "service_type": "Polic\u00eda",
+    "motivo": "Suicidio",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-26T23:59:54.724011",
+    "user_id": 1327829390700052591,
+    "username": "bruno_salazar_13",
+    "service_type": "M\u00e9dicos",
+    "motivo": "Suicidio",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T00:18:14.533523",
+    "user_id": 1198399593789005885,
+    "username": "kazzsidee",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria una mujer robandose una moto blanca x santiago",
+    "codigo_postal": "201"
+  },
+  {
+    "timestamp": "2025-06-27T00:21:35.453862",
+    "user_id": 1327829390700052591,
+    "username": "bruno_salazar_13",
+    "service_type": "Polic\u00eda",
+    "motivo": "Suicidio",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T00:21:50.988099",
+    "user_id": 1327829390700052591,
+    "username": "bruno_salazar_13",
+    "service_type": "M\u00e9dicos",
+    "motivo": "Suicidio",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T00:34:56.392897",
+    "user_id": 1327829390700052591,
+    "username": "bruno_salazar_13",
+    "service_type": "Polic\u00eda",
+    "motivo": "Suicidio",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T00:35:20.595547",
+    "user_id": 1327829390700052591,
+    "username": "bruno_salazar_13",
+    "service_type": "M\u00e9dicos",
+    "motivo": "Suicidio",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T00:36:53.270034",
+    "user_id": 1081697683141570622,
+    "username": "aukan08",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria un sujeto tirar un bolso sin huellas dactilares y un celuklar roto con ropa",
+    "codigo_postal": "600"
+  },
+  {
+    "timestamp": "2025-06-27T01:24:40.150541",
+    "user_id": 1311533367967088732,
+    "username": "pankekegg",
+    "service_type": "Polic\u00eda",
+    "motivo": "se robaron mi veh\u00edculo electrico rojo cyber",
+    "codigo_postal": "401"
+  },
+  {
+    "timestamp": "2025-06-27T01:41:17.321409",
+    "user_id": 1311533367967088732,
+    "username": "pankekegg",
+    "service_type": "Polic\u00eda",
+    "motivo": "secuestro de carabineros en joyeria tesla rojo",
+    "codigo_postal": "403"
+  },
+  {
+    "timestamp": "2025-06-27T02:16:27.856013",
+    "user_id": 1099078261855764693,
+    "username": "bicho1261",
+    "service_type": "M\u00e9dicos",
+    "motivo": "se veria sujeto arriba de un edificio al lado de parking a punto de tirarse",
+    "codigo_postal": "132"
+  },
+  {
+    "timestamp": "2025-06-27T03:00:26.827305",
+    "user_id": 1036401809608155178,
+    "username": "caxzu",
+    "service_type": "Polic\u00eda",
+    "motivo": "Un scw con caeza de condon me acaba de afanar mi vehiculo con una pistolota gigantesca es una vrd max rosa",
+    "codigo_postal": "202"
+  },
+  {
+    "timestamp": "2025-06-27T03:35:57.782097",
+    "user_id": 1199532651065905194,
+    "username": "negrito0621",
+    "service_type": "M\u00e9dicos",
+    "motivo": "ahi un auto rojo que colisiono con un arbol y salio disparado el conductor y casi se cae al rio",
+    "codigo_postal": "703"
+  },
+  {
+    "timestamp": "2025-06-27T03:38:32.713409",
+    "user_id": 1321976550375030927,
+    "username": "moises_jesus",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto intentar suisidiarse de el edificio de parkin ayudaaaaa",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T03:41:31.851677",
+    "user_id": 1321976550375030927,
+    "username": "moises_jesus",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto intentar suisidiarse de el edificio de parkin ayudaaaaa",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T03:43:09.185620",
+    "user_id": 763531986035539992,
+    "username": "weta_30000",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se veria un sujeto de rosa secuestrar a un rpm, lo noquearia y lo dejaria botado",
+    "codigo_postal": "1201"
+  },
+  {
+    "timestamp": "2025-06-27T03:58:42.469640",
+    "user_id": 1321976550375030927,
+    "username": "moises_jesus",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto intentar suisidiarse de el edificio de parkin ayudaaaaa",
+    "codigo_postal": "213"
+  },
+  {
+    "timestamp": "2025-06-27T23:47:46.007540",
+    "user_id": 763531986035539992,
+    "username": "weta_30000",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se veria un sujeto de rosa robar un bullhorn prancer full negro en meca",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-28T00:29:02.978632",
+    "user_id": 763531986035539992,
+    "username": "weta_30000",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se veria un sujeto de negro robar un widebody neegro",
+    "codigo_postal": "202"
+  },
+  {
+    "timestamp": "2025-06-28T00:57:43.463769",
+    "user_id": 1311533367967088732,
+    "username": "pankekegg",
+    "service_type": "Polic\u00eda",
+    "motivo": "robo de cyber truck roja patente: DCOPN11",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-28T21:17:24.032421",
+    "user_id": 1382912151890694165,
+    "username": "9.4345.7896",
+    "service_type": "Polic\u00eda",
+    "motivo": "Robo un atm",
+    "codigo_postal": "403"
+  },
+  {
+    "timestamp": "2025-06-29T00:56:35.919053",
+    "user_id": 1128944607183523901,
+    "username": "mrbloodk",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda el robo de un Mustang Clasico 1960 negro con patente QMG-731",
+    "codigo_postal": "202"
+  },
+  {
+    "timestamp": "2025-06-29T00:57:41.729461",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto robar una chevlon camion de color rojo",
+    "codigo_postal": "203"
+  },
+  {
+    "timestamp": "2025-06-29T01:00:04.589867",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto que robo la camion robar una berreta en 401",
+    "codigo_postal": "401"
+  },
+  {
+    "timestamp": "2025-06-29T01:00:17.770883",
+    "user_id": 1128944607183523901,
+    "username": "mrbloodk",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se estaria viendo el robo de una tienda tipo Bar de las gavetas con dinero",
+    "codigo_postal": "11051"
+  },
+  {
+    "timestamp": "2025-06-29T01:04:35.969615",
+    "user_id": 1128944607183523901,
+    "username": "mrbloodk",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda el robo de una casa en Vitacura vestido con ropa oscura",
+    "codigo_postal": "7011"
+  },
+  {
+    "timestamp": "2025-06-29T01:05:17.965808",
+    "user_id": 1258898048831066140,
+    "username": "mx_ykz",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se Ver\u00eda A Alguien Queriendo Pagar Una Multa",
+    "codigo_postal": "305 (PDI)"
+  },
+  {
+    "timestamp": "2025-06-29T01:57:21.176079",
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto asiendo trucos con un arma parese que se quiere suicidar",
+    "codigo_postal": "900"
+  },
+  {
+    "timestamp": "2025-06-29T03:43:29.026593",
+    "user_id": 1382912151890694165,
+    "username": "9.4345.7896",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00edan sujetos secuestrando a un taxi autos blancos y negros un sujeto tiene gorro rojo otro es negro uno tiene gorro negro",
+    "codigo_postal": "Granja"
+  },
+  {
+    "timestamp": "2025-06-29T03:57:56.223831",
+    "user_id": 1378853251553820743,
+    "username": "dokicl",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda sujeto de Tesla rojo secuestrar a otro frente a mecanico",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-29T04:12:41.623610",
+    "user_id": 610967621730566145,
+    "username": "soup.boy.",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se veria un sujeto robar un Nissan GTR  en spawn de springfild PPU: CJI-318",
+    "codigo_postal": "1104"
+  },
+  {
+    "timestamp": "2025-06-29T04:43:24.914933",
+    "user_id": 1211883783658283081,
+    "username": "utkiahq",
+    "service_type": "M\u00e9dicos",
+    "motivo": "Un RPM esta baleado tirado en el piso, porfavor hagan algo!! Enfrente de la 1 compa\u00f1ia de bomberos",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-29T19:55:06.079160",
+    "user_id": 1036401809608155178,
+    "username": "caxzu",
+    "service_type": "Polic\u00eda",
+    "motivo": "Un sujeto forzo la puerta de una 4runner blanca y fue directo al mecanico, Ayuda!",
+    "codigo_postal": "211"
+  },
+  {
+    "timestamp": "2025-06-29T19:59:37.371072",
+    "user_id": 1036401809608155178,
+    "username": "caxzu",
+    "service_type": "Polic\u00eda",
+    "motivo": "Ayuda!, Un sujeto acaba de cambiar el color de una camioneta robada a rosa!",
+    "codigo_postal": "200"
+  },
+  {
+    "timestamp": "2025-06-29T21:29:51.220640",
+    "user_id": 1319728134840520715,
+    "username": "memis35",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda un sujeto que quiere pagar su multa e",
+    "codigo_postal": "Capa"
+  },
+  {
+    "timestamp": "2025-06-29T22:30:10.428681",
+    "user_id": 1099078261855764693,
+    "username": "bicho1261",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria un sujeto apunto de cuisidarse por amenazas de otro y aburridos de la vida",
+    "codigo_postal": "12021"
+  },
+  {
+    "timestamp": "2025-06-30T02:51:16.945213",
+    "user_id": 1198399593789005885,
+    "username": "kazzsidee",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto enmascarado robando una jalapeno negra en conciesionario",
+    "codigo_postal": "201"
+  },
+  {
+    "timestamp": "2025-06-30T03:10:05.689720",
+    "user_id": 1286806294547664937,
+    "username": "setone03.",
+    "service_type": "Polic\u00eda",
+    "motivo": "HOLA ME QUEDE SIN FRENOS AYUDA VOY BAJANDO EN REVERSA POR EL SAN CRISTOBAL \nAYUDA!!!!!!!!!!!!!",
+    "codigo_postal": "CERRO 2DA"
+  },
+  {
+    "timestamp": "2025-07-01T02:57:47.300478",
+    "user_id": 1198399593789005885,
+    "username": "kazzsidee",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto vestido de policia con un rehen en la tienda de celulares",
+    "codigo_postal": "403"
+  },
+  {
+    "timestamp": "2025-07-01T02:58:47.239102",
+    "user_id": 1198399593789005885,
+    "username": "kazzsidee",
+    "service_type": "Polic\u00eda",
+    "motivo": "se veria sujeto vestido de policia cerrando las puertas con maderas",
+    "codigo_postal": "403"
+  },
+  {
+    "timestamp": "2025-07-02T23:54:55.018898",
+    "user_id": 1129247266302070915,
+    "username": "la_kuky",
+    "service_type": "Polic\u00eda",
+    "motivo": "Se ver\u00eda a una persona robar un mclaren verde patente USP  044",
+    "codigo_postal": "304"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "user_id": 989325928729567282,
+    "username": "ig.es.teban",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "prueba",
+    "timestamp": "2025-06-25T23:44:02.312376",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 2,
+    "user_id": 1260802627394863186,
+    "username": "benjix_2011_71799",
+    "staff_id": 1378853251553820743,
+    "staff_username": "dokicl",
+    "motivo": "NRH, Hablar mientras est\u00e1 abatido y insultos en VC",
+    "timestamp": "2025-06-26T03:30:52.348973",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 3,
+    "user_id": 1129247266302070915,
+    "username": "la_kuky",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "NVVPJ, PG,  Respawn en rol.",
+    "timestamp": "2025-06-26T14:47:02.196561",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 4,
+    "user_id": 1129247266302070915,
+    "username": "la_kuky",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "PG",
+    "timestamp": "2025-06-26T14:47:31.714659",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 5,
+    "user_id": 1129247266302070915,
+    "username": "la_kuky",
+    "staff_id": 1087715665508573184,
+    "staff_username": "patoomr13",
+    "motivo": "No conectarse al servidor despu\u00e9s de votar en encuestas",
+    "timestamp": "2025-06-26T19:10:34.156352",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 6,
+    "user_id": 1222371936986730576,
+    "username": "mr_yulaito",
+    "staff_id": 1087715665508573184,
+    "staff_username": "patoomr13",
+    "motivo": "No conectarse al servidor despu\u00e9s de votar en encuestas",
+    "timestamp": "2025-06-26T19:11:23.274686",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 8,
+    "user_id": 1309954324385890485,
+    "username": "srwilson2",
+    "staff_id": 1087715665508573184,
+    "staff_username": "patoomr13",
+    "motivo": "No conectarse al servidor despu\u00e9s de votar en encuestas",
+    "timestamp": "2025-06-26T19:14:09.193866",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 8,
+    "user_id": 680861527150297164,
+    "username": "yadiel_alvarez2",
+    "staff_id": 1378853251553820743,
+    "staff_username": "dokicl",
+    "motivo": "Salirse estando en Rol",
+    "timestamp": "2025-06-26T21:36:38.424194",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 9,
+    "user_id": 1212192666431791127,
+    "username": "magogoat_",
+    "staff_id": 1353898815845040179,
+    "staff_username": "camiloelpro3630.",
+    "motivo": "no valorar vida, entrar a zona segura con un rol previo, 5 llamados a mod seguidos, y matar en zona segura",
+    "timestamp": "2025-06-26T23:00:59.327190",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 10,
+    "user_id": 1198399593789005885,
+    "username": "kazzsidee",
+    "staff_id": 1036401809608155178,
+    "staff_username": "caxzu",
+    "motivo": "Salirse en Medio Rol",
+    "timestamp": "2025-06-26T23:29:47.493946",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 11,
+    "user_id": 1199532651065905194,
+    "username": "negrito0621",
+    "staff_id": 1309979250014687293,
+    "staff_username": "jeremyhistory",
+    "motivo": "No rolear choque",
+    "timestamp": "2025-06-27T00:13:32.247659",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 13,
+    "user_id": 1198399593789005885,
+    "username": "kazzsidee",
+    "staff_id": 1309979250014687293,
+    "staff_username": "jeremyhistory",
+    "motivo": "No aceptar cuff y salirse en rol",
+    "timestamp": "2025-06-27T00:28:53.132522",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 13,
+    "user_id": 1055879923715280926,
+    "username": "silent.qx1",
+    "staff_id": 1309979250014687293,
+    "staff_username": "jeremyhistory",
+    "motivo": "Matar a mod sin razon",
+    "timestamp": "2025-06-27T22:18:41.660747",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 14,
+    "user_id": 1099078261855764693,
+    "username": "bicho1261",
+    "staff_id": 1319728134840520715,
+    "staff_username": "memis35",
+    "motivo": "hacer MG escuchado por propio moderador",
+    "timestamp": "2025-06-28T00:05:55.063827",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 15,
+    "user_id": 1038816174512812142,
+    "username": "iamreikon",
+    "staff_id": 1319728134840520715,
+    "staff_username": "memis35",
+    "motivo": "hacer MG  escuchado por moderador lo hizo",
+    "timestamp": "2025-06-28T00:06:51.922792",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 16,
+    "user_id": 1309954324385890485,
+    "username": "srwilson2",
+    "staff_id": 646123271334395915,
+    "staff_username": "drako.milaan",
+    "motivo": "NRH pruebas claras.",
+    "timestamp": "2025-06-28T01:26:01.957764",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 17,
+    "user_id": 1055879923715280926,
+    "username": "silent.qx1",
+    "staff_id": 1319728134840520715,
+    "staff_username": "memis35",
+    "motivo": "salirse en medio de rol visto por moderador",
+    "timestamp": "2025-06-28T21:29:28.019140",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 18,
+    "user_id": 1055879923715280926,
+    "username": "silent.qx1",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "salirse en mitad de rol, por segunda vez",
+    "timestamp": "2025-06-29T00:04:00.832456",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 19,
+    "user_id": 780878742263955517,
+    "username": "joaquin_munoz",
+    "staff_id": 1036401809608155178,
+    "staff_username": "caxzu",
+    "motivo": "MG + PG, Uso radio policial cuando le quitaron las comunicaciones, + Mentir Al Staff, Indica que no vio el mensaje y que estaba AFK, Siendo que escribio por radio cuando estaba el mensaje del usuario poniendo \" -/me le corta comunicaciones \" , LV3",
+    "timestamp": "2025-06-29T04:44:22.684505",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 20,
+    "user_id": 1038816174512812142,
+    "username": "iamreikon",
+    "staff_id": 1353898815845040179,
+    "staff_username": "camiloelpro3630.",
+    "motivo": "salirse en rol, no rolear choque, no valorar vida, bajarse en movimiento",
+    "timestamp": "2025-06-29T22:30:09.424498",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 21,
+    "user_id": 1099078261855764693,
+    "username": "bicho1261",
+    "staff_id": 1353898815845040179,
+    "staff_username": "camiloelpro3630.",
+    "motivo": "no rolear heridas, se tiro de mirador de cerro y puso -/me se levanta adolorido (habia samu activo)",
+    "timestamp": "2025-06-29T22:45:12.742301",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 22,
+    "user_id": 831650785808744458,
+    "username": ".223k",
+    "staff_id": 1108135361743421521,
+    "staff_username": "maxcomar",
+    "motivo": "Insultar a moderador",
+    "timestamp": "2025-06-30T02:50:40.369365",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 23,
+    "user_id": 1258898048831066140,
+    "username": "mx_ykz",
+    "staff_id": 1091487526843338902,
+    "staff_username": "pan0789.",
+    "motivo": "No Mandar Entorno En Robo De Vehiculo",
+    "timestamp": "2025-07-02T00:52:34.335320",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 24,
+    "user_id": 1351642747035189420,
+    "username": "acarreamancos3mil_06903",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "Matar en Zona Segura",
+    "timestamp": "2025-07-02T01:03:54.453543",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 25,
+    "user_id": 1212192666431791127,
+    "username": "magogoat_",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "evadir rol visto por mod",
+    "timestamp": "2025-07-02T01:04:27.881979",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 26,
+    "user_id": 1199532651065905194,
+    "username": "negrito0621",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "car kill",
+    "timestamp": "2025-07-02T01:05:40.616400",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 27,
+    "user_id": 1099078261855764693,
+    "username": "bicho1261",
+    "staff_id": 1353898815845040179,
+    "staff_username": "camiloelpro3630.",
+    "motivo": "abrir ticket preguntando si van a hacer encuesta hoy, teniendo <#1221496582449664088> y <#1297236666494353458> para preguntar si van a hacer encuesta",
+    "timestamp": "2025-07-02T21:41:24.859060",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 28,
+    "user_id": 1286806294547664937,
+    "username": "setone03.",
+    "staff_id": 1319728134840520715,
+    "staff_username": "memis35",
+    "motivo": "No ponerse serio al momento de rolear",
+    "timestamp": "2025-07-02T23:49:15.729928",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 29,
+    "user_id": 894417416031993937,
+    "username": "jav_igna_5",
+    "staff_id": 1319728134840520715,
+    "staff_username": "memis35",
+    "motivo": "el sujeto no se pone serio al momento de rolear pone \" -/me saca un borbadillo cocododrilo",
+    "timestamp": "2025-07-02T23:54:22.694565",
+    "guild_id": 1221496580528672999
+  },
+  {
+    "id": 31,
+    "user_id": 1129247266302070915,
+    "username": "la_kuky",
+    "staff_id": 774088434179899414,
+    "staff_username": "mati_dtth",
+    "motivo": "NO ROLEAR CHOQUES",
+    "timestamp": "2025-07-03T03:56:13.504379",
+    "guild_id": 1221496580528672999
+  }
+]

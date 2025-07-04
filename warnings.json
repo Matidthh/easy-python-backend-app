@@ -1,0 +1,61 @@
+{
+  "1264620018109386915": [
+    {
+      "id": 1,
+      "motivo": "[AUTOMÁTICO] Palabra prohibida detectada: 'drogas'",
+      "staff": 1366211092476465172,
+      "fecha": "2025-06-26T17:39:52.669778",
+      "auto_generated": true,
+      "original_message": "Drogas?"
+    }
+  ],
+  "1199532651065905194": [],
+  "1250198546930602147": [
+    {
+      "id": 1,
+      "motivo": "MG, palabras ofensivas hacia otra persona",
+      "staff": 646123271334395915,
+      "fecha": "2025-06-27T02:54:47.435728"
+    }
+  ],
+  "1243781898422059010": [
+    {
+      "id": 1,
+      "motivo": "Uso de accesorio irrealista",
+      "staff": 1309979250014687293,
+      "fecha": "2025-06-27T04:01:20.742804"
+    }
+  ],
+  "1036401809608155178": [
+    {
+      "id": 1,
+      "motivo": "Uso de accesorio irrealista",
+      "staff": 1309979250014687293,
+      "fecha": "2025-06-27T04:18:36.522794"
+    }
+  ],
+  "1055879923715280926": [
+    {
+      "id": 1,
+      "motivo": "Insultos a staff",
+      "staff": 1309979250014687293,
+      "fecha": "2025-06-27T22:46:32.349305"
+    }
+  ],
+  "754182813162405930": [
+    {
+      "id": 1,
+      "motivo": "Disparar En Zona Segura",
+      "staff": 1036401809608155178,
+      "fecha": "2025-06-29T04:50:47.463216"
+    }
+  ],
+  "1344431499839279144": [
+    {
+      "id": 1,
+      "motivo": "Disparar En Zona Segura",
+      "staff": 1036401809608155178,
+      "fecha": "2025-06-29T04:51:00.840261"
+    }
+  ]
+}
